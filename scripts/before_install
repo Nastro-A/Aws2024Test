@@ -1,4 +1,0 @@
-#!/bin/bash
-
-chmod +x start_server
-chmod +x stop_server
