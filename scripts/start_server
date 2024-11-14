@@ -2,6 +2,4 @@
 
 cd /home/ubuntu/app
 
-nohup node app.js
-
-exit
+nohup node app.js &
