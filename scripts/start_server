@@ -2,5 +2,5 @@
 
 cd /home/ubuntu/app
 
-nohup node app.js &
+nohup node app.js
 
