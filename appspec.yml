@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /app.js
+  - source: app.js
     destination: ~/app/
 file_exists_behavior: OVERWRITE
 hooks:
